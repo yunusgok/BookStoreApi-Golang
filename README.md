@@ -1,4 +1,4 @@
-# HW1- Library
+# Library
 
 This project is a basic library application for listing and searching books
 
